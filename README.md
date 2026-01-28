@@ -2,6 +2,6 @@
 
 This repository contains data and code (scripts and notebooks) associated with Ford and Rose (submitted 2025). 
 Files are organized by the figure/notebook they are used for.
-Most of the netCDF files used to make Figures 2&ndash;4 are too large to store on GitHub. The netCDF file containing the main Southern Ocean LFCA result is included on a previous release on Zenodo, and the other processed data is available upon request.
+Most of the netCDF files used to make Figures 2&ndash;4 are too large to store on GitHub. The netCDF file containing the main Southern Ocean LFCA result is included in a previous release on Zenodo, and the other processed data is available upon request.
 
 Preprint: https://doi.org/10.22541/essoar.176384862.21026088/v1
